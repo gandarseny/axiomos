@@ -1,4 +1,3 @@
-```md
 # 🌌 AxiomOS Adrift (v1.0)
 
 AxiomOS Adrift is a minimal experimental operating system written in C with a custom kernel, shell, RAM filesystem, and calculator.
